@@ -10,6 +10,11 @@ path = 'contracts/file_versioning.clar'
 clarity_version = 2
 epoch = 2.5
 
+[contracts.multi_send_and_access_control]
+path = 'contracts/multi_send_and_access_control.clar'
+clarity_version = 2
+epoch = 2.5
+
 [contracts.storage_with_freeze]
 path = 'contracts/storage_with_freeze.clar'
 clarity_version = 2
